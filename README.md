@@ -43,7 +43,7 @@ A Django-based online marketplace application with user authentication, item man
 
 3. Install dependencies:
    ```bash
-   pip install django pillow
+   pip install -r requirements.txt
    ```
 
 4. Run migrations:
